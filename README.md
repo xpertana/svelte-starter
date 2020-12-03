@@ -1,2 +1,0 @@
-# svelte-starter
-Begin app
